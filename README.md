@@ -12,3 +12,6 @@ You'll need to enter:
   - Your twitch oauth (used to pull your chat only) You can create one here: [https://twitchapps.com/tmi/](https://twitchapps.com/tmi/)
   - The chaos mod folder in your teardown mods either a local copy or in steamapps\workshop\content\1167630\2433702881 (depending on where you installed Teardown) This is where the program creates an xml file for the game to read the vote data through.
   - Your Teardown savegame.xml (found in C:\Users\user\AppData\Local\Teardown\) this is used for the twitch chat program to receive reset calls from the mod and is only ever read. NO WRITES. (Always a good idea to make backups though.)
+
+# Credits
+A massive shout out to [MutatedOnion](https://steamcommunity.com/profiles/76561199083584422) for doing most of the work on this. I only did the finishing touches.

@@ -1,5 +1,5 @@
 # Chaos-Mod-Twitch-Integration
-Twitch Integration For Teardown Chaos Mod
+Twitch Integration For [Teardown Chaos Mod](https://github.com/NLferdiNL/Teardown-Chaos-Mod)
 
 Exe files created using auto-py-to-exe, but source also included.
 

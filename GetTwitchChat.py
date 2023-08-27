@@ -24,18 +24,6 @@ TOKEN = settingsContent[1].rstrip()
 PathToMod = settingsContent[2].rstrip()
 PathToSave = settingsContent[3].rstrip()
 
- # your twitch token
-##To obtain your Twitch channel token, you can follow these steps:
-##Go to the Twitch website (https://www.twitch.tv/) and log in to your Twitch account.
-##Once logged in, click on your profile picture in the top-right corner of the screen.
-##From the dropdown menu, select "Creator Dashboard."
-##In the Creator Dashboard, click on the "Settings" tab on the left sidebar.
-##Under the "Settings" tab, click on "Stream."
-##Scroll down to the "Stream Key & Preferences" section.
-##In the "Primary Stream Key" section, you will find your channel token. It is a unique alphanumeric string.
-##Please note that your channel token is sensitive information that grants access to your Twitch channel. Keep it secure and avoid sharing it with others. If you suspect that your token has been compromised, 
-# it is recommended to regenerate a new token for security purposes.
-
 CHANNEL = USERNAME # also twitch user Name if you dont have a different @ idk
 
 VOTES = {}
